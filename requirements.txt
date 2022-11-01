@@ -1,1 +1,4 @@
-scrapy==2.5.1
+scrapy==2.7.0
+ipykernel==6.17.0
+ipython==8.6.0
+ipywidgets==8.0.2
