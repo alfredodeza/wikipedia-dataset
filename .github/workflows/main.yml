@@ -1,5 +1,5 @@
 
-name: ExploitDB and CVE scraping
+name: Create Dataset
 
 # Controls when the workflow will run
 on:
