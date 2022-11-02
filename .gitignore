@@ -1,3 +1,6 @@
-1992_results.csv
-1992_results.db
-1992_results.json
+*_results.csv
+*_results.db
+*_results.json
+populate.sql
+results.csv
+*pyc
