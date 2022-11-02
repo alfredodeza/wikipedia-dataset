@@ -27,7 +27,7 @@ jobs:
         
       - name: run scrapy 
         run: scrapy crawl medalists
-        working-directory: cve
+        working-directory: wikipedia-demo
         
       - uses: Azure/login@v1
         with:
